@@ -1,4 +1,3 @@
-@@ -1,150 +1,152 @@
 <h1 align= center><b>⭐️ Music Player ⭐️</b></h1>
 <h3 align = center> A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls </h3>
 <p align="center">
@@ -13,7 +12,9 @@
     <img src="https://img.shields.io/github/commit-activity/w/AsmSafone/MusicPlayer?style=for-the-badge" alt="Commit Activity">
     <img src="https://img.shields.io/github/issues/AsmSafone/MusicPlayer?style=for-the-badge" alt="Issues">
 </p>
+
 ## ✨ <a name="features"></a>Features
+
 ### ⚡️ Fast & Light
 Starts streaming your inputs while downloading and converting them. Also, it
 doesn't make produce files.
@@ -51,6 +52,8 @@ $ sudo apt install build-essential
 $ sudo npm install pm2@latest -g
 $ pip3 install -U -r requirements.txt
 $ cp sample.env .env
+
+
 # < edit .env with your own values >
 $ python3 main.py
 ```
